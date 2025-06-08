@@ -2,11 +2,11 @@ module github.com/google/osv-scanner/experimental/javareach
 
 go 1.24.0
 
-toolchain go1.24.3
+toolchain go1.24.4
 
 require (
 	github.com/google/osv-scalibr v0.2.1
-	golang.org/x/sync v0.14.0
+	golang.org/x/sync v0.15.0
 )
 
 require (
