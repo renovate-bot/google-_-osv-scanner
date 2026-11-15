@@ -20,11 +20,11 @@ require (
 	github.com/owenrumney/go-sarif/v3 v3.3.2
 	github.com/package-url/packageurl-go v0.1.7
 	github.com/pandatix/go-cvss v0.6.4
-	github.com/tidwall/gjson v1.20.0
+	github.com/tidwall/gjson v1.20.1
 	github.com/tidwall/pretty v1.2.2
-	github.com/tidwall/sjson v1.2.5
+	github.com/tidwall/sjson v1.2.7
 	github.com/urfave/cli/v3 v3.14.0
-	go.yaml.in/yaml/v4 v4.0.0-rc.7
+	go.yaml.in/yaml/v4 v4.0.0
 	golang.org/x/term v0.47.0
 	golang.org/x/vuln v1.6.0
 	google.golang.org/grpc v1.85.0
